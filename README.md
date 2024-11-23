@@ -27,21 +27,21 @@ Follow the instructions below to set up and run the project locally.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/investment-calculator.git
-   cd investment-calculator
-   ```
+```bash
+git clone https://github.com/your-username/investment-calculator.git
+cd investment-calculator
+```
 
-2.Install dependencies:
+2. Install dependencies:
 
 ```bash
 npm install
 ```
 
-3.Start the development server:
+3. Start the development server:
 
 ```bash
 npm run dev
 ```
 
-4.Open your browser and navigate to ===> "http://localhost:5173"
+4. Open your browser and navigate to ===> "http://localhost:5173"
